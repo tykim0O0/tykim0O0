@@ -4,7 +4,7 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Tech Stacks </h2> <br> 
-    <div  align= "center"> 
+    <div  align= "left"> 
         <h4 style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Languages </h4>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
         <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
